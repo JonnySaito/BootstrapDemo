@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.intro-box{
+    background-color: #E0E0E0;
+}
+
+.read-more{
+  background-color: orange;
+}
+
+/* .custom-class {
+  display: none;
+}
+@include media-breakpoint-up(sm) {
+  .custom-class {
+    display: block;
+  }
+} */
